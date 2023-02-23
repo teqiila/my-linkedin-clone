@@ -6,6 +6,7 @@
 input.searche {
   height: 36px;
   max-width: 500px;
+  min-width: 200px;
   background-color: #eef3f8;
   border: 0;
 }
